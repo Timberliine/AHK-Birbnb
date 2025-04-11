@@ -1,4 +1,4 @@
-package dss.birbnb_ahk.entities;
+package dss.birbnb_ahk.entities.reservas;
 
 public enum EstadoReserva {
     PENDIENTE,
